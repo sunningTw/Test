@@ -1,3 +1,21 @@
-this is my first gitHub project
 
-Hello GitHub, I am comming !!
+
+https://github.com/EbookFoundation/free-programming-books
+
+这个项目目前 star 数排名 GitHub 第三，总 star 数超过6w，这个项目整理了所有跟编程相关的免费书籍，而且全球多国语言版的都有，中文版的在这里：
+
+
+https://github.com/EbookFoundation/free-programming-books/blob/master/free-programming-books-zh.md
+
+shell:
+https://github.com/robbyrussell/oh-my-zsh
+
+
+https://github.com/tiimgreen/github-cheat-sheet/
+
+GitHub 的使用有各种技巧，只不过基本的就够我们用了，但是如果你对 GitHub 超级感兴趣，想更多的了解 GitHub 的使用技巧，那么这个项目就刚好是你需要的，每个 GitHub 粉都应该知道这个项目。
+
+android_data
+
+https://github.com/Freelander/Android_Data
+
